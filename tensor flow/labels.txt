@@ -1,0 +1,5 @@
+0 Buffalo
+1 Boar
+2 Pangolin
+3 Trash
+4 BG
