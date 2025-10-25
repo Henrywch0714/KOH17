@@ -1,0 +1,156 @@
+[
+  {
+    "image_path": "images/camera_20251022_135624.jpg",
+    "image_timestamp": "2025-10-22T13:56:24.074725",
+    "sensor_data": {
+      "temperature": 23.6,
+      "humidity": 59.8,
+      "timestamp": "2025-10-22T13:56:24.017093",
+      "sensor_id": "raspberry_pi_camera_001",
+      "location": "Victoria Peak"
+    },
+    "ai_analysis": {
+      "labels": [
+        "hiking trail",
+        "mountain",
+        "bird"
+      ],
+      "confidence": {
+        "hiking trail": 0.72,
+        "mountain": 0.88,
+        "bird": 0.84
+      },
+      "objects": [
+        "hiking trail",
+        "mountain",
+        "bird"
+      ],
+      "analysis_timestamp": "2025-10-22T13:56:24.017093",
+      "model_version": "v1.0"
+    },
+    "processed_at": "2025-10-22T13:56:24.074725"
+  },
+  {
+    "image_path": "images/camera_20251022_135745.jpg",
+    "image_timestamp": "2025-10-22T13:57:45.993734",
+    "sensor_data": {
+      "temperature": 27.1,
+      "humidity": 80.7,
+      "timestamp": "2025-10-22T13:57:45.977140",
+      "sensor_id": "raspberry_pi_camera_001",
+      "location": "Victoria Peak"
+    },
+    "ai_analysis": {
+      "labels": [
+        "bird",
+        "hiking trail",
+        "sky"
+      ],
+      "confidence": {
+        "bird": 0.89,
+        "hiking trail": 0.87,
+        "sky": 0.71
+      },
+      "objects": [
+        "bird",
+        "hiking trail",
+        "sky"
+      ],
+      "analysis_timestamp": "2025-10-22T13:57:45.977140",
+      "model_version": "v1.0"
+    },
+    "processed_at": "2025-10-22T13:57:45.993734"
+  },
+  {
+    "image_path": null,
+    "image_timestamp": "2025-10-22T17:03:06.617684",
+    "sensor_data": {
+      "temperature": 30.4,
+      "humidity": 50.5,
+      "timestamp": "2025-10-22T09:03:07.292398",
+      "sensor_id": "raspberry_pi_camera_001",
+      "location": "Victoria Peak"
+    },
+    "ai_analysis": {
+      "labels": [
+        "test",
+        "connectivity"
+      ],
+      "confidence": {
+        "test": 0.99,
+        "connectivity": 0.98
+      },
+      "objects": [
+        "test",
+        "connectivity"
+      ],
+      "analysis_timestamp": "2025-10-22T09:03:07.292410",
+      "model_version": "v1.0"
+    },
+    "processed_at": "2025-10-22T17:03:06.617684"
+  },
+  {
+    "image_path": "images/camera_20251022_201842.jpg",
+    "image_timestamp": "2025-10-22T20:18:42.931065",
+    "sensor_data": {},
+    "processed_at": "2025-10-22T20:18:42.931065",
+    "data_status": "有图片 | 无传感器数据"
+  },
+  {
+    "image_path": "images/camera_20251022_201909.jpg",
+    "image_timestamp": "2025-10-22T20:19:09.995718",
+    "sensor_data": {},
+    "processed_at": "2025-10-22T20:19:09.995718",
+    "data_status": "有图片 | 无传感器数据"
+  },
+  {
+    "image_path": "images/camera_20251022_201933.jpg",
+    "image_timestamp": "2025-10-22T20:19:33.406215",
+    "sensor_data": {},
+    "processed_at": "2025-10-22T20:19:33.406215",
+    "data_status": "有图片 | 无传感器数据"
+  },
+  {
+    "image_path": "images/camera_20251022_202057.jpg",
+    "image_timestamp": "2025-10-22T20:20:57.118145",
+    "sensor_data": {},
+    "processed_at": "2025-10-22T20:20:57.118145",
+    "data_status": "有图片 | 无传感器数据"
+  },
+  {
+    "image_path": "images/camera_20251022_202744.jpg",
+    "image_timestamp": "2025-10-22T20:27:44.066453",
+    "sensor_data": {},
+    "processed_at": "2025-10-22T20:27:44.066453",
+    "data_status": "有图片 | 无传感器数据"
+  },
+  {
+    "image_path": "images/camera_20251022_202949.jpg",
+    "image_timestamp": "2025-10-22T20:29:49.173927",
+    "sensor_data": {},
+    "processed_at": "2025-10-22T20:29:49.173927",
+    "data_status": "有图片 | 无传感器数据"
+  },
+  {
+    "image_path": "images/camera_20251022_203041.jpg",
+    "image_timestamp": "2025-10-22T20:30:41.313912",
+    "sensor_data": {},
+    "processed_at": "2025-10-22T20:30:41.313912",
+    "data_status": "有图片 | 无传感器数据"
+  },
+  {
+    "image_path": "images/camera_20251022_203105.jpg",
+    "image_timestamp": "2025-10-22T20:31:05.208147",
+    "sensor_data": {},
+    "processed_at": "2025-10-22T20:31:05.208147",
+    "data_status": "有图片 | 无传感器数据"
+  },
+  {
+    "image_path": "images/camera_20251022_213347.jpg",
+    "cloud_report_url": "gs://eastonchau.com/processed_images/environment_report_20251022_213347.jpg",
+    "image_timestamp": "2025-10-22T21:34:14.676064",
+    "sensor_data": {},
+    "processed_at": "2025-10-22T21:34:14.676064",
+    "data_status": "有图片 | 无传感器数据"
+  }
+]
